@@ -1,0 +1,55 @@
+figure_id,image_path,nearest_heading,existing_caption,proposed_caption,needs_manual_review
+fig_0001,assets/앞표지.png,,,수동 작성 필요,yes
+fig_0002,assets/images/structuring_power_01.png,1) 잘게 쪼개기,,1) 잘게 쪼개기 관련 이미지,yes
+fig_0003,assets/images/structuring_power_02.png,2) 상황별 재배치,,2) 상황별 재배치 관련 이미지,yes
+fig_0004,assets/images/structuring_power_03.png,3) 설명하며 정리하기,,3) 설명하며 정리하기 관련 이미지,yes
+fig_0005,assets/images/anki_01.png,5. Anki는 구조 관리 도구,,5. Anki는 구조 관리 도구 관련 이미지,yes
+fig_0006,assets/images/anki_02.png,1) 카드를 만드는 기준,,1) 카드를 만드는 기준 관련 이미지,yes
+fig_0007,assets/images/haos_01.png,1) 구조를 코드로 옮기다,,1) 구조를 코드로 옮기다 관련 이미지,yes
+fig_0008,assets/images/haos_02.png,3) 보안과 안정성,,3) 보안과 안정성 관련 이미지,yes
+fig_0009,assets/images/openclaw_01.png,"1) 기능을 만드는 게 아니라, 운영 구조를 만든다",,"1) 기능을 만드는 게 아니라, 운영 구조를 만든다 관련 이미지",yes
+fig_0010,assets/images/openclaw_02.png,2) 모델은 성능이 아니라 역할이다,,2) 모델은 성능이 아니라 역할이다 관련 이미지,yes
+fig_0011,assets/images/openclaw_03.png,3) 구현은 사고를 밖으로 꺼내는 일,,3) 구현은 사고를 밖으로 꺼내는 일 관련 이미지,yes
+fig_0012,assets/images/modeling_probabilistic_01.png,1) 수치를 감각에서 분리하다 — VoiceGrape,,1) 수치를 감각에서 분리하다 — VoiceGrape 관련 이미지,yes
+fig_0013,assets/images/modeling_probabilistic_02.png,2) 농도를 시간 위에 올리다 — EstroFrame,,2) 농도를 시간 위에 올리다 — EstroFrame 관련 이미지,yes
+fig_0014,assets/images/voicegrape_01.png,1) 음성을 신호로 해석하다,,1) 음성을 신호로 해석하다 관련 이미지,yes
+fig_0015,assets/images/voicegrape_02.png,3) 시간-주파수 공간으로 확장하다,,3) 시간-주파수 공간으로 확장하다 관련 이미지,yes
+fig_0016,assets/images/neuroframe_01.png,1) 일정이 아니라 상태를 기록하다,,1) 일정이 아니라 상태를 기록하다 관련 이미지,yes
+fig_0017,assets/images/neuroframe_02.png,2) 패턴을 보는 순간 판단이 바뀐다,,2) 패턴을 보는 순간 판단이 바뀐다 관련 이미지,yes
+fig_0018,assets/images/neuroframe_03.png,3) 코칭은 개입이다,,3) 코칭은 개입이다 관련 이미지,yes
+fig_0019,assets/images/estroframe_01.png,1) 농도를 시간 위에 올리다,,1) 농도를 시간 위에 올리다 관련 이미지,yes
+fig_0020,assets/images/estroframe_02.png,2) 개인을 모델 안에 넣다,,2) 개인을 모델 안에 넣다 관련 이미지,yes
+fig_0021,assets/images/estroframe_03.png,3) CDSS라는 방향,,3) CDSS라는 방향 관련 이미지,yes
+fig_0022,assets/images/cleantext_01.png,"3. 로컬 기반 EMR 파싱, CleanText",,"3. 로컬 기반 EMR 파싱, CleanText 관련 이미지",yes
+fig_0023,assets/images/cleantext_02.png,"1) 서버로 보내면 편하지만, 위험도 커진다",,"1) 서버로 보내면 편하지만, 위험도 커진다 관련 이미지",yes
+fig_0024,assets/images/cleantext_03.png,2) 비식별화는 버튼 하나로 끝나지 않는다,,2) 비식별화는 버튼 하나로 끝나지 않는다 관련 이미지,yes
+fig_0025,assets/images/cleantext_04.png,"3) 정리, 구조화, 내보내기",,"3) 정리, 구조화, 내보내기 관련 이미지",yes
+fig_0026,assets/images/cleanemr_01.png,"4. EMR 연구용 파싱, CleanEMR",,"4. EMR 연구용 파싱, CleanEMR 관련 이미지",yes
+fig_0027,assets/images/cleanemr_02.png,2) 외래 기록을 방문 단위로 나누다,,2) 외래 기록을 방문 단위로 나누다 관련 이미지,yes
+fig_0028,assets/images/cleanemr_03.png,5) 파싱되지 않은 줄도 버리지 않는다,,5) 파싱되지 않은 줄도 버리지 않는다 관련 이미지,yes
+fig_0029,assets/images/cleanemr_04.PNG,6) DiaFrame으로 넘기기 위한 데이터베이스,,6) DiaFrame으로 넘기기 위한 데이터베이스 관련 이미지,yes
+fig_0030,assets/images/diaframe_01.png,"5. 머신러닝 기반 당뇨 약물 추천, DiaFrame",,"5. 머신러닝 기반 당뇨 약물 추천, DiaFrame 관련 이미지",yes
+fig_0031,assets/images/diaframe_02.PNG,1) DiaFrame은 EMR 파서가 아니다,,1) DiaFrame은 EMR 파서가 아니다 관련 이미지,yes
+fig_0032,assets/images/diaframe_03.png,2) 추천을 자유롭게 말하게 두지 않는다,,2) 추천을 자유롭게 말하게 두지 않는다 관련 이미지,yes
+fig_0033,assets/images/diaframe_04.png,3) 안전 규칙은 모델 밖에 따로 둔다,,3) 안전 규칙은 모델 밖에 따로 둔다 관련 이미지,yes
+fig_0034,assets/images/diaframe_05.png,4) 실제 처방과 비교해야 한다,,4) 실제 처방과 비교해야 한다 관련 이미지,yes
+fig_0035,assets/images/diaframe_06.png,5) 불일치가 더 중요할 때도 있다,,5) 불일치가 더 중요할 때도 있다 관련 이미지,yes
+fig_0036,assets/images/pharmaframe_01.png,"1. 다학제 약제 PK 분석, PharmaFrame",,"1. 다학제 약제 PK 분석, PharmaFrame 관련 이미지",yes
+fig_0037,assets/images/pharmaframe_02.png,"1) 처방은 사건이고, 농도는 함수다",,"1) 처방은 사건이고, 농도는 함수다 관련 이미지",yes
+fig_0038,assets/images/pharmaframe_03.png,3) 약물 조정은 곡선의 형태를 바꾸는 일이다,,3) 약물 조정은 곡선의 형태를 바꾸는 일이다 관련 이미지,yes
+fig_0039,assets/images/pharmaframe_04.png,4) 복약 누락도 하나의 시나리오다,,4) 복약 누락도 하나의 시나리오다 관련 이미지,yes
+fig_0040,assets/images/pharmaframe_05.png,5) 수술 전 약을 끊는다는 것,,5) 수술 전 약을 끊는다는 것 관련 이미지,yes
+fig_0041,assets/images/surgery_cessation_01.png,2. 수술 전 약을 끊는다는 것,,2. 수술 전 약을 끊는다는 것 관련 이미지,yes
+fig_0042,assets/images/surgery_cessation_02.png,2) 마지막 투여일보다 잔류 농도가 중요하다,,2) 마지막 투여일보다 잔류 농도가 중요하다 관련 이미지,yes
+fig_0043,assets/images/model_reality_01.png,3. 모델은 처음부터 맞지 않는다,,3. 모델은 처음부터 맞지 않는다 관련 이미지,yes
+fig_0044,assets/images/model_reality_02.png,3) 오차는 실패가 아니라 정보다,,3) 오차는 실패가 아니라 정보다 관련 이미지,yes
+fig_0045,assets/images/model_reality_03.png,4) 보정은 모델을 현실 쪽으로 당기는 일이다,,4) 보정은 모델을 현실 쪽으로 당기는 일이다 관련 이미지,yes
+fig_0046,assets/images/future_doctor_01.png,3. 어떤 의사가 될 것인가,,3. 어떤 의사가 될 것인가 관련 이미지,yes
+fig_0047,assets/images/future_doctor_02.png,1. 의사는 평생 배우는 직업이다,,1. 의사는 평생 배우는 직업이다 관련 이미지,yes
+fig_0048,assets/images/future_doctor_03.png,3. 마지막 기준은 자기 자신(自信)이다,,3. 마지막 기준은 자기 자신(自信)이다 관련 이미지,yes
+fig_0049,assets/images/future_doctor_04.png,나는 어떤 의사가 될 것인가,,나는 어떤 의사가 될 것인가 관련 이미지,yes
+fig_0050,assets/images/clinical_digital_twin_01.png,4. 임상 디지털 트윈 설계자,,4. 임상 디지털 트윈 설계자 관련 이미지,yes
+fig_0051,assets/images/clinical_digital_twin_02.PNG,2) 상태를 시간 위에 올리다,,2) 상태를 시간 위에 올리다 관련 이미지,yes
+fig_0052,assets/images/clinical_digital_twin_03.png,6) CleanEMR은 디지털 트윈의 바닥이다,,6) CleanEMR은 디지털 트윈의 바닥이다 관련 이미지,yes
+fig_0053,assets/images/jlpt_01.png,"하루 30분, 1년 반. JLPT N1까지",,"하루 30분, 1년 반. JLPT N1까지 관련 이미지",yes
+fig_0054,assets/뒷표지.png,7) 사진도 구조를 보는 일이다,뒷표지,뒷표지,no

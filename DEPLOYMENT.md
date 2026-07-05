@@ -2,7 +2,7 @@
 
 ## GitHub Pages
 
-- Repository: `https://github.com/jsbang01357/mes.medicalframe.ai`
+- Repository: `https://github.com/MedicalFrame/mes.medicalframe.ai`
 - Pages source: `main` branch, repository root
 - Custom domain: `mes.medicalframe.ai`
 - CNAME file: `CNAME`
@@ -14,7 +14,7 @@ Set this record at the DNS provider for `medicalframe.ai`:
 ```text
 Type: CNAME
 Name: mes
-Value: jsbang01357.github.io
+Value: medicalframe.github.io
 ```
 
 After DNS resolves, enable HTTPS enforcement in GitHub Pages if it is not enabled automatically.
@@ -26,4 +26,8 @@ dig CNAME mes.medicalframe.ai
 curl -I https://mes.medicalframe.ai
 ```
 
-The site has been verified by forcing `mes.medicalframe.ai` to a GitHub Pages IP with `curl --resolve`.
+Before DNS resolves, verify the site through the GitHub Pages URL:
+
+```bash
+curl -I https://medicalframe.github.io/mes.medicalframe.ai/
+```
